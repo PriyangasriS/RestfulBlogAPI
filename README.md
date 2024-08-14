@@ -2,8 +2,7 @@
 
 **PDF LINKS - API Documentation & Database Schema & Setup Scripts**
 
-For detailed API documentation and Database Schema & Setup Scripts, refer 
-[API Documentation & Database Schema & Setup Scripts](https://drive.google.com/drive/folders/1yM1M71JwmUz0CBusGiCTvq72mQbwLrhw?usp=drive_link)
+For detailed API documentation and Database Schema & Setup Scripts, refer[HERE](https://drive.google.com/drive/folders/1yM1M71JwmUz0CBusGiCTvq72mQbwLrhw?usp=drive_link)
 
 
 
