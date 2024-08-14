@@ -19,7 +19,7 @@ For detailed API documentation and Database Schema & Setup Scripts, refer [Here]
 
 ## Getting Started
 1. First of all, you need to clone the app repository from GitHub:
-     git clone https://github.com/otonebierdizde/MERN-blog-app.git
+    git clone https://github.com/PriyangasriS/RestfulBlogAPI.git
    
 2. Navigate to the project directory:
      cd MERN-blog-app
@@ -27,6 +27,7 @@ For detailed API documentation and Database Schema & Setup Scripts, refer [Here]
 3. Install the dependencies for both the backend and frontend:
    
     cd frontend && npm install
+   
     cd ../backend && npm install
    
 
@@ -36,12 +37,14 @@ For detailed API documentation and Database Schema & Setup Scripts, refer [Here]
 2. Open the `.env` file and define the following environment variables:
    
     MONGO_URI=your_mongodb_connection_uri
+   
     PORT=your_port
   
 
 ## See The Project In Action
 
 cd frontend && npm run dev
+
 cd ../backend && npm run dev
 
 
