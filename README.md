@@ -1,5 +1,10 @@
 # MERN Blog App
 
+**PDF LINKS - API Documentation & Database Schema & Setup Scripts**
+
+For detailed API documentation and Database Schema & Setup Scripts, refer [here](https://drive.google.com/drive/folders/1yM1M71JwmUz0CusGiCTvq72mQbwLrhw?usp=sharing).
+
+
 ## Table of Contents
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
@@ -41,9 +46,6 @@
 cd frontend && npm run dev
 cd ../backend && npm run dev
 
-**PDF LINKS - API Documentation & Database Schema & Setup Scripts**
-
-For detailed API documentation and Database Schema & Setup Scripts, refer Here : (https://drive.google.com/drive/folders/1yM1M71JwmUz0CBusGiCTvq72mQbwLrhw?usp=sharing)
 
 Author
 LinkedIn - https://www.linkedin.com/in/priyanga-sri-s-9a828926a/
