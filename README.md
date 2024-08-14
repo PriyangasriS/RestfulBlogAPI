@@ -48,5 +48,5 @@ cd frontend && npm run dev
 cd ../backend && npm run dev
 
 
-Author
+## Author
 LinkedIn - https://www.linkedin.com/in/priyanga-sri-s-9a828926a/
