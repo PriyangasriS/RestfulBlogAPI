@@ -1,11 +1,8 @@
-# MERN Blog App
+The issue with the "Author" link in your Table of Contents not working is likely due to a formatting error in the Markdown file. Specifically, the link might not work because Markdown requires anchor links to match the exact text (including capitalization) of the section headers.
 
-**PDF LINKS - API Documentation & Database Schema & Setup Scripts**
+To fix the link in the Table of Contents, update the "Author" section header to match the link in the Table of Contents exactly. Here's the corrected section:
 
-For detailed API documentation and Database Schema & Setup Scripts, refer [Here](https://drive.google.com/drive/folders/1yM1M71JwmUz0CBusGiCTvq72mQbwLrhw?usp=drive_link)
-
-
-
+```md
 ## Table of Contents
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
@@ -46,7 +43,8 @@ For detailed API documentation and Database Schema & Setup Scripts, refer [Here]
 ```bash
 cd frontend && npm run dev
 cd ../backend && npm run dev
+```
 
-
-# author
-LinkedIn - https://www.linkedin.com/in/priyanga-sri-s-9a828926a/
+## Author
+LinkedIn - [Priyanga Sri S](https://www.linkedin.com/in/priyanga-sri-s-9a828926a/)
+```
